@@ -8,8 +8,8 @@
 	- [3-2. 愛の奇跡](https://github.com/kyonenya/lacan-on-love/blob/main/3-2_%E6%84%9B%E3%81%AE%E5%A5%87%E8%B7%A1.md)
 	- [3-5. 分析的文脈における愛](https://github.com/kyonenya/lacan-on-love/blob/main/3-5_%E5%88%86%E6%9E%90%E7%9A%84%E6%96%87%E8%84%88%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%84%9B.md)
 - [8\. ラカンとともにプラトンを読む](https://github.com/kyonenya/lacan-on-love/blob/main/8_%E3%83%A9%E3%82%AB%E3%83%B3%E3%81%A8%E3%81%A8%E3%82%82%E3%81%AB%E3%83%97%E3%83%A9%E3%83%88%E3%83%B3%E3%82%92%E8%AA%AD%E3%82%80.md)
-	- 8-10. ソクラテスの演説の後
-	- 8-11. ソクラテスとアルキビアデスの関係の「謎」
-	- 8-12. ソクラテスの「解釈」
-	- 8-13. ソクラテスの「誤り」
-	- 8-14. 捨て台詞
+	- 8-10. ソクラテスの演説の後 [↪︎](https://github.com/kyonenya/lacan-on-love/blob/main/8_%E3%83%A9%E3%82%AB%E3%83%B3%E3%81%A8%E3%81%A8%E3%82%82%E3%81%AB%E3%83%97%E3%83%A9%E3%83%88%E3%83%B3%E3%82%92%E8%AA%AD%E3%82%80.md#8-10-%E3%82%BD%E3%82%AF%E3%83%A9%E3%83%86%E3%82%B9%E3%81%AE%E6%BC%94%E8%AA%AC%E3%81%AE%E5%BE%8C189)
+	- 8-11. ソクラテスとアルキビアデスの関係の「謎」[↪︎](https://github.com/kyonenya/lacan-on-love/blob/main/8_%E3%83%A9%E3%82%AB%E3%83%B3%E3%81%A8%E3%81%A8%E3%82%82%E3%81%AB%E3%83%97%E3%83%A9%E3%83%88%E3%83%B3%E3%82%92%E8%AA%AD%E3%82%80.md#8-11-%E3%82%BD%E3%82%AF%E3%83%A9%E3%83%86%E3%82%B9%E3%81%A8%E3%82%A2%E3%83%AB%E3%82%AD%E3%83%93%E3%82%A2%E3%83%87%E3%82%B9%E3%81%AE%E9%96%A2%E4%BF%82%E3%81%AE%E8%AC%8E192)
+	- 8-12. ソクラテスの「解釈」[↪︎](https://github.com/kyonenya/lacan-on-love/blob/main/8_%E3%83%A9%E3%82%AB%E3%83%B3%E3%81%A8%E3%81%A8%E3%82%82%E3%81%AB%E3%83%97%E3%83%A9%E3%83%88%E3%83%B3%E3%82%92%E8%AA%AD%E3%82%80.md#8-12-%E3%82%BD%E3%82%AF%E3%83%A9%E3%83%86%E3%82%B9%E3%81%AE%E8%A7%A3%E9%87%88195)
+	- 8-13. ソクラテスの「誤り」[↪︎](https://github.com/kyonenya/lacan-on-love/blob/main/8_%E3%83%A9%E3%82%AB%E3%83%B3%E3%81%A8%E3%81%A8%E3%82%82%E3%81%AB%E3%83%97%E3%83%A9%E3%83%88%E3%83%B3%E3%82%92%E8%AA%AD%E3%82%80.md#8-13-%E3%82%BD%E3%82%AF%E3%83%A9%E3%83%86%E3%82%B9%E3%81%AE%E8%AA%A4%E3%82%8A196)
+	- 8-14. 捨て台詞 [↪︎](https://github.com/kyonenya/lacan-on-love/blob/main/8_%E3%83%A9%E3%82%AB%E3%83%B3%E3%81%A8%E3%81%A8%E3%82%82%E3%81%AB%E3%83%97%E3%83%A9%E3%83%88%E3%83%B3%E3%82%92%E8%AA%AD%E3%82%80.md#8-14-%E6%8D%A8%E3%81%A6%E5%8F%B0%E8%A9%9E199)
