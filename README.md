@@ -1,4 +1,4 @@
-ブルース・フィンク『愛についてのラカン：ラカンのセミネール8『転移』の探究』の日本語訳（Bruce Fink (2017) *Lacan on love: An exploration of Lacan's seminar VIII, transference*, John Wiley & Sons. の部分訳）
+ブルース・フィンク『愛についてのラカン——ラカンのセミネール8『転移』の探究』の日本語訳
 
 - [1\. フロイト的前奏曲——愛の三角形](https://github.com/kyonenya/lacan-on-love/blob/main/1_%E3%83%95%E3%83%AD%E3%82%A4%E3%83%88%E7%9A%84%E5%89%8D%E5%A5%8F%E6%9B%B2%E2%80%94%E2%80%94%E6%84%9B%E3%81%AE%E4%B8%89%E8%A7%92%E5%BD%A2.md)
 - 3\. ラカンによるプラトン『饗宴』の読解
@@ -11,3 +11,9 @@
 	- 8-12. ソクラテスの「解釈」[↪︎](https://github.com/kyonenya/lacan-on-love/blob/main/8_%E3%83%A9%E3%82%AB%E3%83%B3%E3%81%A8%E3%81%A8%E3%82%82%E3%81%AB%E3%83%97%E3%83%A9%E3%83%88%E3%83%B3%E3%82%92%E8%AA%AD%E3%82%80.md#8-12-%E3%82%BD%E3%82%AF%E3%83%A9%E3%83%86%E3%82%B9%E3%81%AE%E8%A7%A3%E9%87%88195)
 	- 8-13. ソクラテスの「誤り」[↪︎](https://github.com/kyonenya/lacan-on-love/blob/main/8_%E3%83%A9%E3%82%AB%E3%83%B3%E3%81%A8%E3%81%A8%E3%82%82%E3%81%AB%E3%83%97%E3%83%A9%E3%83%88%E3%83%B3%E3%82%92%E8%AA%AD%E3%82%80.md#8-13-%E3%82%BD%E3%82%AF%E3%83%A9%E3%83%86%E3%82%B9%E3%81%AE%E8%AA%A4%E3%82%8A196)
 	- 8-14. 捨て台詞 [↪︎](https://github.com/kyonenya/lacan-on-love/blob/main/8_%E3%83%A9%E3%82%AB%E3%83%B3%E3%81%A8%E3%81%A8%E3%82%82%E3%81%AB%E3%83%97%E3%83%A9%E3%83%88%E3%83%B3%E3%82%92%E8%AA%AD%E3%82%80.md#8-14-%E6%8D%A8%E3%81%A6%E5%8F%B0%E8%A9%9E199)
+
+## 備考
+
+- Bruce Fink (2017) *Lacan on love: An exploration of Lacan's seminar VIII, transference*, John Wiley & Sons. の部分訳
+- 参考文献表は省略した。なお、本文中に頻出する `Lacan 2015` はラカンの『転移』のセミネールを指している
+	- Lacan, J. (2015). The seminar of Jacques Lacan, Book VIII: Transference (1960-1961) (J.-A. Miller, ed., B. Fink, trans.). Cambridge, UK: Polity. (Original work published in 1991 and the second, revised edition in 2001.)
