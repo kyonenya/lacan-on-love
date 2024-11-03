@@ -5,9 +5,9 @@
 	- [3-1. 愛とは持っていないものを与えることである](https://github.com/kyonenya/lacan-on-love/blob/main/3-1_%E6%84%9B%E3%81%A8%E3%81%AF%E6%8C%81%E3%81%A3%E3%81%A6%E3%81%84%E3%81%AA%E3%81%84%E3%82%82%E3%81%AE%E3%82%92%E4%B8%8E%E3%81%88%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E3%81%82%E3%82%8B.md)
 	- 3-2. 持たざることと無知
 	- 3-3. 隠喩としての愛——愛の意味作用
-	- [3-4. 愛の奇跡](https://github.com/kyonenya/lacan-on-love/blob/main/3-2_%E6%84%9B%E3%81%AE%E5%A5%87%E8%B7%A1.md)
+	- [3-4. 愛の奇跡](https://github.com/kyonenya/lacan-on-love/blob/main/3-4_%E6%84%9B%E3%81%AE%E5%A5%87%E8%B7%A1.md)
 	- [3-5. 分析的文脈における愛](https://github.com/kyonenya/lacan-on-love/blob/main/3-5_%E5%88%86%E6%9E%90%E7%9A%84%E6%96%87%E8%84%88%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%84%9B.md)
-- [6\. 愛と現実界](https://github.com/kyonenya/lacan-on-love/blob/main/4_%E6%84%9B%E3%81%A8%E7%8F%BE%E5%AE%9F%E7%95%8C.md)
+- [6\. 愛と現実界](https://github.com/kyonenya/lacan-on-love/blob/main/6_%E6%84%9B%E3%81%A8%E7%8F%BE%E5%AE%9F%E7%95%8C.md)
 	- 6-1. 反復強迫 [↪︎](https://github.com/kyonenya/lacan-on-love/blob/main/6_%E6%84%9B%E3%81%A8%E7%8F%BE%E5%AE%9F%E7%95%8C.md#6-1-%E5%8F%8D%E5%BE%A9%E5%BC%B7%E8%BF%AB93)
 	- 6-2. 象徴化できないもの [↪︎](https://github.com/kyonenya/lacan-on-love/blob/main/6_%E6%84%9B%E3%81%A8%E7%8F%BE%E5%AE%9F%E7%95%8C.md#6-2-%E8%B1%A1%E5%BE%B4%E5%8C%96%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E3%82%82%E3%81%AE94)
 	- 6-3. 一目惚れ [↪︎](https://github.com/kyonenya/lacan-on-love/blob/main/6_%E6%84%9B%E3%81%A8%E7%8F%BE%E5%AE%9F%E7%95%8C.md#6-3-%E4%B8%80%E7%9B%AE%E6%83%9A%E3%82%8C95)
